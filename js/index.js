@@ -1,4 +1,3 @@
-console.log('hi');
 
 let nav_toggle = document.querySelector('.main-nav__toggle');
 let nav_list = document.querySelector('.main-nav');
@@ -36,4 +35,3 @@ btnBefore.onclick = function () {
 
 }
 
-console.log('hi');
